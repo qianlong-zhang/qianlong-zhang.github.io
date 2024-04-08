@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qianlong Zhang's Blog"
+title                    : "乾龙的博客"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "https://github.com/qianlong-zhang/qianlong-zhang.git
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mi_pic.jpt"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"
   bio              : "Short biography for the left-hand sidebar"
@@ -143,14 +143,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qianlong Zhang"
+  name             : "乾龙"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "中科院计算所计算机系统结构博士毕业，曾在华为海思、中晟宏芯、华芯通工作过，12年高性能CPU研发经验"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Rf9obs0AAAAJ&hl=en"
-  email            :
+  email            : "494281590@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -166,7 +166,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4030-3976"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
