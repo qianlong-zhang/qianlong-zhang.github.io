@@ -145,11 +145,11 @@ analytics:
 # Site Author
 author:
   name             : "乾龙"
-  avatar           : "profile.png"
+  avatar           : "my_pic.jpg"
   bio              : "中科院计算所计算机系统结构博士"
-  location         : "Location"
+  location         : "北京"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Rf9obs0AAAAJ&hl=en"
   email            : "494281590@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -173,7 +173,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
