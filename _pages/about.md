@@ -7,5 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta name="google-site-verification" content="L_iPgaVONAY2RjG3uoCbnszaLP6tSkm5xvxwmk2RSH4" />
 
 欢迎来到我的网站，以前写过部分博客[CSDN](https://blog.csdn.net/qianlong4526888)，以后写东西都在这了。
