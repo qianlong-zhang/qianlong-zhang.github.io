@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "乾龙的博客"
+title                    : "Qianlong Zhang-张乾龙"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
   location         : "北京"
   employer         : "腾讯"
   uri              : # URL
-  email            : "494281590@qq.com"
+  email            : #"494281590@qq.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -151,7 +151,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Rf9obs0AAAAJ&hl=en"
-  email            : "494281590@qq.com"
+  email            : #"494281590@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
