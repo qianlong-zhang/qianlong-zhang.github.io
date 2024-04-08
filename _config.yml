@@ -374,3 +374,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# 自定义 <head> 节点中的 HTML 内容
+custom_head: '<meta name="google-site-verification" content="d0Rev5W_JYq5bbkGICM-P1jOiRgOtD7NERbZxHiFMMw" />'
