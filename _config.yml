@@ -21,7 +21,8 @@ repository               : "https://github.com/qianlong-zhang/qianlong-zhang.git
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_pic.jpg"
+  # avatar           : "my_pic.jpg"
+  avatar           : "editing-talk.png"
   name             : "乾龙"
   pronouns         : # example: "she/her"
   bio              : "曾在华为海思、中晟宏芯、华芯通工作过，12年高性能CPU研发经验"
@@ -145,7 +146,7 @@ analytics:
 author:
   name             : "乾龙"
   avatar           : "profile.png"
-  bio              : "中科院计算所计算机系统结构博士毕业"
+  bio              : "中科院计算所计算机系统结构博士"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

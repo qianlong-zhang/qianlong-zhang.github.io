@@ -1,7 +1,7 @@
 ---
 title: '捋一捋国内CPU设计公司'
 date: 2024-04-08
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2024/04/blog-post-2/
 tags:
   - 体系结构
 ---

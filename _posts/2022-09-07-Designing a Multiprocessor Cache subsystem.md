@@ -1,7 +1,7 @@
 ---
 title: 'Designing a Multiprocessor Cache subsystem'
-date: 2022-09-07
-permalink: /posts/2012/08/blog-post-1/
+date: 2024-04-08
+permalink: /posts/2024/04/blog-post-1/
 tags:
   - cool posts
   - category1
