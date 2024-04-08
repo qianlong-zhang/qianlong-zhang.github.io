@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qianlong Zhang's personal academic websites"
+title: "欢迎来到乾龙的个人博客"
 excerpt: "About me"
 author_profile: true
 redirect_from:
